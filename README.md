@@ -20,8 +20,8 @@ This microservice allows you to retrieve the top products from different e-comme
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-repo/top-products-microservice.git
-    cd top-products-microservice
+    git clone 
+   
     ```
 
 2. Install the dependencies:
