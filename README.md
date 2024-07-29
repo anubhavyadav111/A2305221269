@@ -9,7 +9,7 @@ This microservice allows you to retrieve the top products from different e-comme
 - [Configuration](#configuration)
 - [Running the Server](#running-the-server)
 - [API Endpoints](#api-endpoints)
-- [License](#license)
+
 
 ## Prerequisites
 
